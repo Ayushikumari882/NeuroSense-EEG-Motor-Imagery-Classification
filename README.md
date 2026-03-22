@@ -8,16 +8,7 @@ Standalone Flask dashboard for EEG motor imagery analysis with:
 - CSP feature extraction
 - Calibrated linear SVM classification
 - Premium dark clinical dashboard UI with Plotly visualizations
-
-## Run
-
-```powershell
-.\.venv\Scripts\activate
-python app.py
-```
-
-Open `http://127.0.0.1:5000`
-
+- 
 ## Project Files
 
 - `app.py`
